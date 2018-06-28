@@ -10,7 +10,10 @@
   - lambdas just have return-type + lambda + param-type ?
     - does that mean lambda's with the same return + param are equal? yes...
 - data
-  - type = whataver you say it is?
+  - type = whatever you say it is?
+  - direct access to bytes
+    - data structures over bytes?
 - collections
-  - lists, hashes, trees, queues...
+  - struct, lists, hashes, trees, queues...
+  - are these built in? or defined in the language?
 
